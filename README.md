@@ -29,5 +29,7 @@
 1. Создайте [описанный кодом pipeline](https://www.google.com/search?q=jenkins+how+to+code+app+pipeline) для сборки [тестового приложения](https://github.com/digital-academy-devops/docker-example).
 1. Разверните второй экземпляр Jenkins с использованием конфигурации первого экземпляра.
 
-
+## Пример выполнения задания
+- Репозиторий с кодом для развертывания Jenkins в docker-compose - https://github.com/digital-academy-devops/jenkins-example
+- Пример реализации pipeline для тестового приложения - https://github.com/digital-academy-devops/docker-example/pull/3
 
