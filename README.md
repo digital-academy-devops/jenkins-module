@@ -26,7 +26,7 @@
    - Агент должен иметь возможность [запускать команды docker](https://www.google.com/search?q=how+to+run+docker+inside+docker+container). Выберите наиболее простой способ реализации данного требования. 
 1. Сконфигурируйте возможность [динамического запуска агентов внутри контейнеров](https://www.google.com/search?q=jenkins+use+containers+as+agents). 
 1. [Опишите конфигурацию экземпляра кодом](https://www.google.com/search?q=jenkins+how+to+store+configuration+as+code).
-1. Создайте [описанный кодом pipeline](https://www.google.com/search?q=jenkins+how+to+code+app+pipeline) для сборки [тестового приложения](https://github.com/digital-academy-devops/docker-example/tree/example).
+1. Создайте [описанный кодом pipeline](https://www.google.com/search?q=jenkins+how+to+code+app+pipeline) для сборки [тестового приложения](https://github.com/digital-academy-devops/docker-example/tree/docker).
 
 ### Дополнительно:
 1. Разверните второй экземпляр Jenkins с использованием конфигурации первого экземпляра.
